@@ -1,8 +1,9 @@
 {
-  "version": "1.1.2",
-  "download_url": "https://github.com/zhiftplatforms/zhiftpos-releases/releases/download/pangea-crm-forms-v1.1.2/pangea-crm-forms.zip",
+  "version": "1.1.3",
+  "download_url": "https://github.com/zhiftplatforms/zhiftpos-releases/releases/download/pangea-crm-forms-v1.1.3/pangea-crm-forms.zip",
   "requires": "5.8",
   "tested": "6.7",
   "requires_php": "7.4",
-  "changelog": "<ul><li>Fix: country field visibility when preset_country is set. This fixes state/city dropdowns when country is preset on page 1 and also enabled on page 2.</li></ul>"
+  "homepage": "https://zhiftplatforms.com",
+  "changelog": "<h4>1.1.3</h4><ul><li>Auto-updater now reads directly from GitHub Releases. No per-release manifest file updates required going forward.</li><li>Add native Elementor style controls: Container, Labels, Inputs, Submit Button (normal/hover), and field spacing.</li><li>Fix: 'Inherit' theme mode now fully hands off styling to the host theme.</li></ul><h4>1.1.2</h4><ul><li>Fix: country field visibility when preset_country is set on campaign form.</li></ul><h4>1.1.1</h4><ul><li>Initial auto-update support.</li></ul>"
 }
