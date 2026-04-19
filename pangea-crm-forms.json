@@ -1,0 +1,8 @@
+{
+  "version": "1.1.2",
+  "download_url": "https://github.com/zhiftplatforms/zhiftpos-releases/releases/download/pangea-crm-forms-v1.1.2/pangea-crm-forms.zip",
+  "requires": "5.8",
+  "tested": "6.7",
+  "requires_php": "7.4",
+  "changelog": "<ul><li>Fix: country field visibility when preset_country is set. This fixes state/city dropdowns when country is preset on page 1 and also enabled on page 2.</li></ul>"
+}
